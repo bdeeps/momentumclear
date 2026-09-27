@@ -1,0 +1,160 @@
+{
+  "slug": "momentumclear",
+  "kind": "principle",
+  "box": 18,
+  "date": "2026-09-27",
+  "title": "Momentum",
+  "question": "What is momentum?",
+  "principle": {
+    "type": "concept",
+    "name": "Momentum",
+    "formula": "p = m × v",
+    "formulaNote": "momentum = mass × velocity, in kg·m/s. In any collision or explosion with no outside push, the total momentum before equals the total after.",
+    "idea": "Momentum is how much 'oomph' a moving thing carries: its mass times its velocity. When things collide or push apart, momentum passes from one to the other, but the total never changes.",
+    "discovered": "1644–1687 · Descartes's 'quantity of motion', corrected by Huygens and Wallis (1668), made law by Newton",
+    "art": "cradle",
+    "appliesTo": [
+      "carclear",
+      "motorcycleclear",
+      "cycleclear",
+      "fanclear"
+    ],
+    "examples": [
+      {
+        "title": "Crumple zones and airbags",
+        "text": "A crash takes away all of a car's momentum. Crumple zones, belts and airbags stretch the stop from milliseconds to about a tenth of a second, cutting the force on the people inside many times.",
+        "box": "carclear"
+      },
+      {
+        "title": "Car meets lorry",
+        "text": "Locked together after a head-on crash, the wreck moves with the total momentum. A 16 t lorry barely slows; a 1.2 t car's speed changes by more than its own crash speed.",
+        "box": "carclear"
+      },
+      {
+        "title": "Why the helmet has foam",
+        "text": "A rider's head must lose its momentum whatever happens. A helmet's 3 cm foam liner stretches that stop about five times longer than bare skull, keeping the peak under the 275 g test limit.",
+        "box": "motorcycleclear"
+      },
+      {
+        "title": "Riding into a stop",
+        "text": "A 90 kg bike and rider at 20 km/h carry 500 kg·m/s. Brakes remove it gently over seconds; a kerb does it in a few hundredths of a second, which is why you go over the bars.",
+        "box": "cycleclear"
+      },
+      {
+        "title": "A fan is a gentle rocket",
+        "text": "A 1,200 mm ceiling fan throws about 4 kg of air down each second at 3 m/s. That momentum per second, about 13 N, pushes the fan upwards.",
+        "box": "fanclear"
+      },
+      {
+        "title": "Rockets in empty space",
+        "text": "Throwing exhaust back at 3 km/s gives the rocket the same momentum forwards, no air needed. Tsiolkovsky's 1903 equation turns that into the rocket's final speed."
+      },
+      {
+        "title": "Newton's cradle",
+        "text": "Lift two balls and two come out. One ball at double speed would keep momentum but double the energy, so hard steel balls choose the only answer that keeps both."
+      },
+      {
+        "title": "Giving with the hands",
+        "text": "A fielder who draws her hands back 40 cm makes a catch last 40 times longer than stiff hands, so the same momentum arrives with a fortieth of the force."
+      },
+      {
+        "title": "Sailing on sunlight",
+        "text": "Light carries momentum. In 2010 JAXA's IKAROS spread a 14 m sail and measured a push of about 1.1 millinewtons from sunlight alone."
+      }
+    ]
+  },
+  "hook": "Why does a lorry shove a car backwards in a crash, why does a helmet have foam, and why does a Newton's cradle send out exactly two balls when you drop two? Crash carts, cars and carrom strikers, fire a cannon and a rocket, catch a cricket ball, and sail on sunlight.",
+  "thumbText": "MOMENTUM",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "momentum",
+    "conservation of momentum",
+    "impulse",
+    "collisions",
+    "elastic collision",
+    "inelastic collision",
+    "crumple zone",
+    "rocket equation",
+    "Newton's cradle",
+    "recoil",
+    "radiation pressure",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Mass on the move",
+      "text": "Momentum is mass times velocity, p = m v, in kg·m/s, and it has a direction. Measure m on a scale and v with light gates, and multiply. When two carts collide or spring apart, whatever one loses the other gains, so the total is the same before and after: bouncy, sticky or explosive. Kinetic energy is only kept in the bouncy case."
+    },
+    {
+      "title": "Crashes and catches",
+      "text": "After a head-on crash the wreck moves with the total momentum, so a lorry barely slows while a car's Δv is huge. Stopping anything needs an impulse, F × Δt = Δp. Crumple zones, belts, airbags, helmet foam and soft hands all stretch Δt so the peak force, in g, falls."
+    },
+    {
+      "title": "Push-offs",
+      "text": "Start at zero momentum and push apart: skaters, a boat and its jumper, a cannon and its ball end with equal and opposite momentum. A rocket keeps throwing exhaust back, Δv = v_e ln(full ÷ empty), and a ceiling fan's thrust is the air's momentum per second, about 13 N."
+    },
+    {
+      "title": "Games",
+      "text": "Newton's cradle sends out as many balls as you drop, because only that keeps both momentum and energy; clay balls crawl off together. On a carrom board momentum adds as arrows, and equal pool balls split at 90°. A cricket bat reverses the ball's momentum in about a millisecond."
+    },
+    {
+      "title": "Myths and limits",
+      "text": "In a crash both vehicles feel the same force; the heavier one just changes speed less, and the wreck goes the way of more momentum. Momentum isn't energy: same p, a lighter, faster ball digs a far deeper dent. Spin has its own conserved momentum, L = I ω, and even light pushes: IKAROS, 2010."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Momentum",
+      "def": "Mass times velocity, p = m v, in kg·m/s. It has a size and a direction."
+    },
+    {
+      "term": "Conservation of momentum",
+      "def": "With no outside push, the total momentum of colliding or exploding objects stays the same."
+    },
+    {
+      "term": "Impulse",
+      "def": "Force × time, F Δt, in N·s. It equals the change of momentum, so a longer stop means a smaller force."
+    },
+    {
+      "term": "Elastic and inelastic",
+      "def": "Elastic collisions keep kinetic energy too; inelastic ones turn some of it into heat, sound and dents."
+    },
+    {
+      "term": "Δv",
+      "def": "The change of velocity in a collision, the best single measure of how much a crash hurts."
+    },
+    {
+      "term": "Thrust",
+      "def": "The push from throwing mass away: mass per second × speed. Rockets and fans both work this way."
+    },
+    {
+      "term": "Rocket equation",
+      "def": "Δv = v_e ln(m_full ÷ m_empty), Tsiolkovsky, 1903."
+    },
+    {
+      "term": "Angular momentum",
+      "def": "The momentum of spinning, L = I ω, also conserved. Light carries momentum too: p = E ÷ c."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "momentumclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

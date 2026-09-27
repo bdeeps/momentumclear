@@ -1,0 +1,699 @@
+{
+  "title": "The history of momentum",
+  "tagline": "From impetus to solar sails: 1,500 years of learning what a moving thing carries.",
+  "intro": "Philosophers from Philoponus to Buridan guessed that a moving body carries its own 'impetus', growing with its matter and its speed. Descartes turned it into a conserved quantity, but forgot direction; Wallis, Wren and Huygens fixed it in 1668, and Newton built his mechanics on it. A fifty-year quarrel with Leibniz separated momentum from energy. Since then momentum has launched rockets, designed crumple zones and, with light itself, sailed a spacecraft to Venus.",
+  "eras": [
+    {
+      "id": "impetus",
+      "name": "Impetus: what keeps things moving?",
+      "from": 500,
+      "to": 1600,
+      "color": "#c49bff",
+      "summary": "Philoponus, Ibn Sina and Buridan give a moving body its own impetus, growing with matter and speed."
+    },
+    {
+      "id": "quantity",
+      "name": "The quantity of motion",
+      "from": 1640,
+      "to": 1690,
+      "color": "#7be08c",
+      "summary": "Descartes conserves it, Huygens, Wallis and Wren fix it with direction, Mariotte tests it, Newton makes it law."
+    },
+    {
+      "id": "vis",
+      "name": "Momentum or energy?",
+      "from": 1686,
+      "to": 1745,
+      "color": "#ffb547",
+      "summary": "Leibniz's vis viva, 's Gravesande's clay and du Châtelet's book separate m v from m v²."
+    },
+    {
+      "id": "modern",
+      "name": "Rockets, crashes and light",
+      "from": 1870,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Light's momentum, the rocket equation, Noether's symmetry, crumple zones, airbags and solar sails."
+    }
+  ],
+  "events": [
+    {
+      "year": 530,
+      "date": "c. 530",
+      "era": "impetus",
+      "art": "scroll",
+      "key": false,
+      "title": "A thrown stone carries its own push",
+      "who": "John Philoponus",
+      "where": "Alexandria, Egypt",
+      "country": "Egypt",
+      "text": "Aristotle had said the air keeps a thrown stone moving. Philoponus disagreed: the thrower gives the stone an inner 'impressed force' that slowly wears away. It was the first hint that motion is something a body carries with it.",
+      "why": "It moved the cause of motion from the air into the moving thing itself.",
+      "sources": [
+        0,
+        1
+      ]
+    },
+    {
+      "year": 1020,
+      "date": "c. 1020",
+      "era": "impetus",
+      "art": "scroll",
+      "key": false,
+      "title": "Ibn Sina's lasting inclination",
+      "who": "Ibn Sina (Avicenna)",
+      "where": "Persia",
+      "country": "Iran",
+      "text": "In his Book of Healing, Ibn Sina argued that a thrown body receives an inclination (mayl) that would last forever in empty space; only the air's resistance uses it up. It is close to the modern idea that motion needs no push to continue.",
+      "why": "He imagined motion that never runs down, centuries before Galileo and Newton.",
+      "sources": [
+        1
+      ]
+    },
+    {
+      "year": 1350,
+      "date": "c. 1350 (attributed)",
+      "era": "impetus",
+      "art": "ball",
+      "key": true,
+      "title": "Impetus: quantity of matter times speed",
+      "who": "Jean Buridan",
+      "where": "University of Paris",
+      "country": "France",
+      "text": "Buridan taught that a mover gives a body 'impetus', and that it grows with both the body's quantity of matter and its speed. That is why a heavy iron ball thrown fast goes further than a light one. Only air and gravity wear it down.",
+      "why": "Mass times speed: the recipe for momentum, three hundred years early.",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1644,
+      "date": "1644",
+      "era": "quantity",
+      "art": "block",
+      "key": true,
+      "title": "Descartes: the quantity of motion is conserved",
+      "who": "René Descartes",
+      "where": "Amsterdam, Netherlands",
+      "country": "Netherlands",
+      "text": "In his Principles of Philosophy, Descartes said God keeps the total 'quantity of motion', size times speed, the same in the universe for ever. He also gave seven rules for collisions. Most were wrong, because he ignored direction: speed has no sign, but motion does.",
+      "why": "The first conservation law of motion, and a famous mistake that pushed others to fix it.",
+      "sources": [
+        3,
+        4
+      ],
+      "box": "idea"
+    },
+    {
+      "year": 1656,
+      "date": "1656 (published 1703)",
+      "era": "quantity",
+      "art": "ball",
+      "key": false,
+      "title": "Huygens imagines collisions on a moving boat",
+      "who": "Christiaan Huygens",
+      "where": "The Hague, Netherlands",
+      "country": "Netherlands",
+      "text": "Huygens worked out correct rules for colliding hard balls by picturing the same collision seen from a boat drifting along a canal. He found that mass times velocity, counted with direction, is conserved, and for hard balls mass times speed squared too. His book De motu corporum ex percussione was only printed after his death.",
+      "why": "It fixed Descartes's rules and hinted that there are two conserved quantities, not one.",
+      "sources": [
+        4,
+        5
+      ],
+      "box": "idea"
+    },
+    {
+      "year": 1668,
+      "date": "Nov 1668 – Jan 1669",
+      "era": "quantity",
+      "art": "cradle",
+      "key": true,
+      "title": "The Royal Society's collision papers",
+      "who": "John Wallis, Christopher Wren and Christiaan Huygens",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "The Royal Society asked for the true laws of collision. Wallis sent rules for soft bodies that stick (26 November 1668); Wren's rules for hard, bouncing bodies were read on 17 December and printed on 11 January 1669; Huygens sent his too. All three rested on the same idea: the total momentum, counted with direction, never changes.",
+      "why": "The conservation of momentum became an agreed, tested law of nature.",
+      "sources": [
+        4,
+        6,
+        7
+      ],
+      "box": "idea"
+    },
+    {
+      "year": 1673,
+      "date": "1673",
+      "era": "quantity",
+      "art": "cradle",
+      "key": false,
+      "title": "Mariotte hangs balls in a row",
+      "who": "Edme Mariotte",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "In his Traité de la percussion, Mariotte tested collisions with balls hung on threads, the arrangement we now call Newton's cradle, and sorted collisions into elastic and inelastic ones. Newton later credited his pendulum experiments.",
+      "why": "The first recorded Newton's cradle, a century before Newton's name was attached to it.",
+      "sources": [
+        8,
+        9,
+        23
+      ],
+      "box": "games"
+    },
+    {
+      "year": 1686,
+      "date": "1686",
+      "era": "vis",
+      "art": "scroll",
+      "key": true,
+      "title": "Leibniz: Descartes measured the wrong thing",
+      "who": "Gottfried Wilhelm Leibniz",
+      "where": "Leipzig, Germany",
+      "country": "Germany",
+      "text": "In the journal Acta Eruditorum, Leibniz published a 'brief demonstration of a notable error of Descartes'. The true 'living force' (vis viva) of a moving body, he said, is mass times speed squared, not mass times speed. Cartesians fought back, and the vis viva controversy lasted about fifty years.",
+      "why": "It separated the ideas we now call momentum and kinetic energy.",
+      "sources": [
+        10,
+        14
+      ],
+      "box": "limits"
+    },
+    {
+      "year": 1687,
+      "date": "1687",
+      "era": "quantity",
+      "art": "apple",
+      "key": true,
+      "title": "Newton makes momentum the heart of mechanics",
+      "who": "Isaac Newton",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Newton's Principia defines 'quantity of motion' as velocity and quantity of matter together, and his second law says a force changes it. Conservation of momentum drops out as a corollary of his laws. He credits Wren, Wallis, Huygens and Mariotte for the collision experiments.",
+      "why": "Momentum became the quantity that forces change, the basis of all later mechanics (see NewtonClear).",
+      "sources": [
+        4,
+        11
+      ],
+      "box": "idea"
+    },
+    {
+      "year": 1722,
+      "date": "1722",
+      "era": "vis",
+      "art": "ball",
+      "key": false,
+      "title": "Brass balls into clay",
+      "who": "Willem 's Gravesande",
+      "where": "Leiden, Netherlands",
+      "country": "Netherlands",
+      "text": "'s Gravesande dropped brass balls of different masses into soft clay. Balls made equal dents when their heights were inversely proportional to their masses, which means the dent follows mass times speed squared. He switched sides to Leibniz.",
+      "why": "An experiment showing that damage follows energy, not momentum: the myth-buster in this box.",
+      "sources": [
+        12,
+        14
+      ],
+      "box": "limits"
+    },
+    {
+      "year": 1740,
+      "date": "1740",
+      "era": "vis",
+      "art": "quill",
+      "key": false,
+      "title": "Du Châtelet's Institutions de physique",
+      "who": "Émilie du Châtelet",
+      "where": "Cirey and Paris, France",
+      "country": "France",
+      "text": "Émilie du Châtelet combined Leibniz's argument with 's Gravesande's clay results in her physics textbook, and argued that vis viva, m v², is what a moving body can do. She later translated Newton's Principia into French.",
+      "why": "She made the energy side of the debate clear and widely read.",
+      "sources": [
+        13,
+        14
+      ],
+      "box": "limits"
+    },
+    {
+      "year": 1743,
+      "date": "1743",
+      "era": "vis",
+      "art": "scroll",
+      "key": false,
+      "title": "D'Alembert: both sides were right",
+      "who": "Jean le Rond d'Alembert",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "In his Traité de dynamique, d'Alembert said the quarrel was partly about words. Measure a force by how long it acts and m v is right; measure it by how far it acts and m v² is right. Today we call these impulse and work.",
+      "why": "It pointed the way to keeping both momentum and energy.",
+      "sources": [
+        14
+      ]
+    },
+    {
+      "year": 1873,
+      "date": "1873",
+      "era": "modern",
+      "art": "wave",
+      "key": false,
+      "title": "Maxwell: light should push",
+      "who": "James Clerk Maxwell",
+      "where": "Cambridge, England",
+      "country": "United Kingdom",
+      "text": "Maxwell's theory of electromagnetism predicted that light carries momentum and presses on anything it hits. The pressure of sunlight on Earth, he worked out, is tiny: a few millionths of a pascal.",
+      "why": "It meant momentum was not just for things with mass.",
+      "sources": [
+        15
+      ],
+      "box": "limits"
+    },
+    {
+      "year": 1900,
+      "date": "1899–1900",
+      "era": "modern",
+      "art": "wave",
+      "key": false,
+      "title": "Lebedev measures the pressure of light",
+      "who": "Pyotr Lebedev",
+      "where": "Moscow, Russia",
+      "country": "Russia",
+      "text": "Lebedev shone light on tiny metal vanes hung in a vacuum and measured the push, announcing it at the 1900 International Congress of Physics in Paris. Nichols and Hull in the USA confirmed it more precisely in 1901–03.",
+      "why": "The first measurement of light's momentum.",
+      "sources": [
+        15,
+        16
+      ],
+      "box": "limits"
+    },
+    {
+      "year": 1903,
+      "date": "May 1903",
+      "era": "modern",
+      "art": "rocket",
+      "key": true,
+      "title": "Tsiolkovsky's rocket equation",
+      "who": "Konstantin Tsiolkovsky",
+      "where": "Kaluga, Russia",
+      "country": "Russia",
+      "text": "A schoolteacher in Kaluga published 'Exploration of Outer Space by Means of Reaction Devices' in the journal Nauchnoe Obozrenie. Using momentum conservation for each bit of exhaust, he showed a rocket's final speed is exhaust speed × ln(full mass ÷ empty mass). The issue was confiscated by the police for an unrelated article.",
+      "why": "It showed that spaceflight was possible, and why rockets need stages.",
+      "sources": [
+        17,
+        18
+      ],
+      "box": "push"
+    },
+    {
+      "year": 1918,
+      "date": "1918",
+      "era": "modern",
+      "art": "scroll",
+      "key": false,
+      "title": "Noether: why momentum is conserved",
+      "who": "Emmy Noether",
+      "where": "Göttingen, Germany",
+      "country": "Germany",
+      "text": "Emmy Noether proved that every symmetry of nature comes with a conserved quantity. Because the laws of physics are the same here as over there, momentum is conserved; because they are the same today as tomorrow, energy is.",
+      "why": "Conservation of momentum turned out to be a property of space itself.",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923",
+      "era": "modern",
+      "art": "xray",
+      "key": false,
+      "title": "Compton: a single photon has momentum",
+      "who": "Arthur Holly Compton",
+      "where": "St Louis, USA",
+      "country": "United States",
+      "text": "Compton bounced X-rays off electrons and found the X-rays lost energy exactly as if each photon were a tiny ball carrying momentum h ÷ λ. Momentum and energy were both conserved in every photon-electron collision.",
+      "why": "Light's momentum works photon by photon, the rule solar sails rely on.",
+      "sources": [
+        20
+      ],
+      "box": "limits"
+    },
+    {
+      "year": 1959,
+      "date": "1952 patent · 1959 car",
+      "era": "modern",
+      "art": "car",
+      "key": true,
+      "title": "Crumple zones reach the road",
+      "who": "Béla Barényi, Mercedes-Benz",
+      "where": "Sindelfingen, Germany",
+      "country": "Germany",
+      "text": "Barényi split the car into a rigid cabin with front and rear zones designed to fold up in a crash (German patent 854157, 1952). The Mercedes-Benz W111 'Fintail' saloon of 1959 was the first car built fully this way. A longer crush means a longer stop, so less force on the people inside.",
+      "why": "Impulse, F × Δt = Δp, became the rule of car safety.",
+      "sources": [
+        21,
+        22
+      ],
+      "box": "road"
+    },
+    {
+      "year": 1967,
+      "date": "1967",
+      "era": "modern",
+      "art": "cradle",
+      "key": false,
+      "title": "Newton's cradle gets its name",
+      "who": "Simon Prebble, Scientific Demonstrations Ltd",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "English actor Simon Prebble named the wooden desk toy made by his company 'Newton's cradle'. Chrome versions soon became an office classic. The idea itself went back to Mariotte, three centuries earlier.",
+      "why": "Momentum and energy conservation on millions of desks.",
+      "sources": [
+        23
+      ],
+      "box": "games"
+    },
+    {
+      "year": 1974,
+      "date": "1973–74 · India 2019–22",
+      "era": "modern",
+      "art": "car",
+      "key": false,
+      "title": "Airbags stretch the stop",
+      "who": "General Motors",
+      "where": "Detroit, USA",
+      "country": "United States",
+      "text": "GM's Air Cushion Restraint System went into about 11,000 cars from the 1974 model year, starting with the Oldsmobile Toronado. Airbags later became standard worldwide. India made a driver airbag compulsory in 2019 and dual front airbags in all new cars from 2022.",
+      "why": "A cushion of gas makes the head's stop last longer and spreads the force.",
+      "sources": [
+        24,
+        28
+      ],
+      "box": "road"
+    },
+    {
+      "year": 2010,
+      "date": "20 May 2010",
+      "era": "modern",
+      "art": "orbit",
+      "key": true,
+      "title": "IKAROS sails on sunlight",
+      "who": "JAXA",
+      "where": "Tanegashima, Japan",
+      "country": "Japan",
+      "text": "Japan's IKAROS unfolded a 14 m × 14 m sail, thinner than a hair, on its way to Venus. Tracking its orbit, JAXA measured a push of about 1.12 millinewtons from sunlight alone: the first spacecraft to be driven between the planets by light's momentum.",
+      "why": "Light's momentum became a working way to travel through space.",
+      "sources": [
+        25,
+        26,
+        27
+      ],
+      "box": "limits"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Impetus grows with matter and speed",
+      "value": "c. 1350",
+      "who": "Jean Buridan, Paris"
+    },
+    {
+      "label": "A conservation law of motion",
+      "value": "1644",
+      "who": "René Descartes, Amsterdam"
+    },
+    {
+      "label": "Correct laws of collision, with direction",
+      "value": "1668–69",
+      "who": "Wallis, Wren and Huygens, Royal Society"
+    },
+    {
+      "label": "Momentum as the quantity forces change",
+      "value": "1687",
+      "who": "Isaac Newton, Principia"
+    },
+    {
+      "label": "Light pressure measured",
+      "value": "1900",
+      "who": "Pyotr Lebedev, Moscow"
+    },
+    {
+      "label": "The rocket equation",
+      "value": "1903",
+      "who": "Konstantin Tsiolkovsky, Kaluga"
+    },
+    {
+      "label": "Car built with crumple zones",
+      "value": "1959",
+      "who": "Mercedes-Benz W111, Béla Barényi's design"
+    },
+    {
+      "label": "Interplanetary solar sail",
+      "value": "2010",
+      "who": "IKAROS, JAXA"
+    }
+  ],
+  "people": [
+    {
+      "name": "Jean Buridan",
+      "life": "c. 1301 – c. 1360",
+      "role": "Philosopher",
+      "from": "France",
+      "note": "Said impetus grows with a body's matter and speed."
+    },
+    {
+      "name": "René Descartes",
+      "life": "1596 – 1650",
+      "role": "Philosopher and mathematician",
+      "from": "France",
+      "note": "First to say the quantity of motion is conserved, though his collision rules were mostly wrong."
+    },
+    {
+      "name": "Christiaan Huygens",
+      "life": "1629 – 1695",
+      "role": "Physicist and astronomer",
+      "from": "Netherlands",
+      "note": "Found the correct collision rules by imagining them on a moving boat."
+    },
+    {
+      "name": "John Wallis",
+      "life": "1616 – 1703",
+      "role": "Mathematician",
+      "from": "England",
+      "note": "Gave the Royal Society the rules for bodies that stick together."
+    },
+    {
+      "name": "Christopher Wren",
+      "life": "1632 – 1723",
+      "role": "Astronomer and architect",
+      "from": "England",
+      "note": "Gave the rules for bouncing bodies, before designing St Paul's Cathedral."
+    },
+    {
+      "name": "Edme Mariotte",
+      "life": "c. 1620 – 1684",
+      "role": "Physicist",
+      "from": "France",
+      "note": "Tested collisions with hanging balls: the first Newton's cradle."
+    },
+    {
+      "name": "Isaac Newton",
+      "life": "1643 – 1727",
+      "role": "Physicist and mathematician",
+      "from": "England",
+      "note": "Made quantity of motion the thing forces change."
+    },
+    {
+      "name": "Gottfried Wilhelm Leibniz",
+      "life": "1646 – 1716",
+      "role": "Philosopher and mathematician",
+      "from": "Germany",
+      "note": "Argued that m v², not m v, measures a body's 'living force'."
+    },
+    {
+      "name": "Émilie du Châtelet",
+      "life": "1706 – 1749",
+      "role": "Natural philosopher",
+      "from": "France",
+      "note": "Brought vis viva and 's Gravesande's clay tests to a wide audience."
+    },
+    {
+      "name": "Konstantin Tsiolkovsky",
+      "life": "1857 – 1935",
+      "role": "Schoolteacher and rocket theorist",
+      "from": "Russia",
+      "note": "Wrote the rocket equation from momentum conservation."
+    },
+    {
+      "name": "Emmy Noether",
+      "life": "1882 – 1935",
+      "role": "Mathematician",
+      "from": "Germany",
+      "note": "Showed momentum is conserved because space is the same everywhere."
+    },
+    {
+      "name": "Béla Barényi",
+      "life": "1907 – 1997",
+      "role": "Car safety engineer",
+      "from": "Austria-Hungary, worked in Germany",
+      "note": "Invented the crumple zone and the rigid safety cell."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "Newton never used the word momentum for m v. He wrote 'quantitas motus', quantity of motion; 'momentum' is Latin for a movement or moving force, and took over during the 1700s.",
+    "Descartes's momentum had no direction, so two equal balls meeting head-on and stopping would 'lose' it. Adding a plus or minus sign fixed the whole theory.",
+    "The ECE 22.05 helmet test drops a helmeted head at 7.5 m/s onto a steel anvil and allows at most 275 g; the US FMVSS 218 standard allows 400 g.",
+    "Tsiolkovsky's 1903 article was hardly read at first: the police confiscated that issue of the journal because of a different, political article in it.",
+    "Sunlight pushes on a mirror at about 9 micronewtons per square metre near Earth, roughly the weight of a grain of sand on each square metre, yet IKAROS used it to steer."
+  ],
+  "sources": [
+    {
+      "title": "John Philoponus",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/philoponus/"
+    },
+    {
+      "title": "Theory of impetus",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Theory_of_impetus"
+    },
+    {
+      "title": "Jean Buridan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jean_Buridan"
+    },
+    {
+      "title": "Descartes' Physics",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/descartes-physics/"
+    },
+    {
+      "title": "Momentum: history of the concept",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Momentum#History_of_the_concept"
+    },
+    {
+      "title": "Bibliography of Christiaan Huygens",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bibliography_of_Christiaan_Huygens"
+    },
+    {
+      "title": "Paper, 'Lex naturae de collisione corporum' by Christopher Wren",
+      "publisher": "The Royal Society: Science in the Making",
+      "url": "https://makingscience.royalsociety.org/items/clp_3i_43/paper-lex-naturae-de-collisione-corporum-the-law-of-nature-concerning-the-collision-of-bodies-by-christopher-wren"
+    },
+    {
+      "title": "The Laws of Collision at the Royal Society, 1668–9",
+      "publisher": "Springer Nature",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-26174-9_27"
+    },
+    {
+      "title": "Edme Mariotte",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Edme_Mariotte"
+    },
+    {
+      "title": "Traité de la percussion ou chocq des corps (1673)",
+      "publisher": "Wellcome Collection",
+      "url": "https://wellcomecollection.org/works/ntpqm8wk"
+    },
+    {
+      "title": "Leibniz's Philosophy of Physics",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/leibniz-physics/"
+    },
+    {
+      "title": "Newton's Philosophiae Naturalis Principia Mathematica",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/newton-principia/"
+    },
+    {
+      "title": "Willem 's Gravesande",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Willem_%27s_Gravesande"
+    },
+    {
+      "title": "Émilie du Châtelet",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "url": "https://plato.stanford.edu/entries/emilie-du-chatelet/"
+    },
+    {
+      "title": "Vis viva",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vis_viva"
+    },
+    {
+      "title": "Radiation pressure",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Radiation_pressure"
+    },
+    {
+      "title": "Pyotr Nikolayevich Lebedev",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Pyotr-Nikolayevich-Lebedev"
+    },
+    {
+      "title": "Konstantin Eduardovich Tsiolkovsky",
+      "publisher": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/people/science-and-technology/space-exploration-biographies/konstantin-eduardovich-tsiolkovsky"
+    },
+    {
+      "title": "Tsiolkovsky rocket equation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation"
+    },
+    {
+      "title": "Noether's theorem",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Noether%27s_theorem"
+    },
+    {
+      "title": "Compton scattering",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Compton_scattering"
+    },
+    {
+      "title": "Béla Barényi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/B%C3%A9la_Bar%C3%A9nyi"
+    },
+    {
+      "title": "Crumple zone",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crumple_zone"
+    },
+    {
+      "title": "Newton's cradle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newton%27s_cradle"
+    },
+    {
+      "title": "Air Cushion Restraint System",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Air_Cushion_Restraint_System"
+    },
+    {
+      "title": "IKAROS",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/IKAROS"
+    },
+    {
+      "title": "IKAROS (Interplanetary Kite-craft Accelerated by Radiation Of the Sun)",
+      "publisher": "eoPortal (ESA)",
+      "url": "https://www.eoportal.org/satellite-missions/ikaros"
+    },
+    {
+      "title": "Achievement of IKAROS: Japanese deep space solar sail demonstration mission",
+      "publisher": "Acta Astronautica (ScienceDirect)",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0094576512001348"
+    },
+    {
+      "title": "Dual airbags made mandatory for passenger vehicles in India",
+      "publisher": "Autocar India",
+      "url": "https://www.autocarindia.com/car-news/front-passenger-airbag-made-mandatory-for-passenger-cars-in-india-420149"
+    },
+    {
+      "title": "Motorcycle helmet standards explained: DOT, ECE 22.05 and Snell",
+      "publisher": "Ultimate Motorcycling",
+      "url": "https://ultimatemotorcycling.com/2013/04/08/motorcycle-helmet-standards-explained-dot-ece-22-05-snell/"
+    }
+  ]
+}

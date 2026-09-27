@@ -1,0 +1,126 @@
+{
+  "slug": "momentumclear",
+  "box": 18,
+  "question": "What is momentum?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/momentumclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/momentumclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From impetus to solar sails: 1,500 years of learning what a moving thing carries.\n\n1350: Impetus: quantity of matter times speed\n1644: Descartes: the quantity of motion is conserved\n1668: The Royal Society's collision papers\n1686: Leibniz: Descartes measured the wrong thing\n1687: Newton makes momentum the heart of mechanics\n1903: Tsiolkovsky's rocket equation\n\nThe full story, with 21 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/momentumclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/momentumclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #momentum #conservationofmomentum #impulse #collisions #elasticcollision #inelasticcollision #history",
+      "youtube": {
+        "title": "The history of momentum in 45 seconds #shorts",
+        "description": "From impetus to solar sails: 1,500 years of learning what a moving thing carries.\n\n1350 · Impetus: quantity of matter times speed (Jean Buridan)\n1644 · Descartes: the quantity of motion is conserved (René Descartes)\n1668 · The Royal Society's collision papers (John Wallis, Christopher Wren and Christiaan Huygens)\n1686 · Leibniz: Descartes measured the wrong thing (Gottfried Wilhelm Leibniz)\n1687 · Newton makes momentum the heart of mechanics (Isaac Newton)\n1903 · Tsiolkovsky's rocket equation (Konstantin Tsiolkovsky)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/momentumclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/momentumclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What is momentum?\n\nWhy does a lorry shove a car backwards in a crash, why does a helmet have foam, and why does a Newton's cradle send out exactly two balls when you drop two? Crash carts, cars and carrom strikers, fire a cannon and a rocket, catch a cricket ball, and sail on sunlight.\n\n→ Momentum is mass times velocity. Hit an equal cart and they swap: momentum passes straight across.\n→ Make them stick: the total momentum is exactly the same, but kinetic energy is lost as heat.\n→ Car meets lorry: the wreck moves off with their total momentum, and the car’s Δv is brutal.\n→ Same momentum to lose: a helmet stretches the stop over 3 cm and cuts the peak force five times.\n→ Push off on ice: equal and opposite momentum, so the lighter skater flies away faster.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/momentumclear (link in bio)\n\nBox No. L18 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #momentum #conservationofmomentum #impulse #collisions #elasticcollision #inelasticcollision #crumplezone #rocketequation #newtonscradle",
+    "carousel": "Swipe through: What is momentum?\n\nWhy does a lorry shove a car backwards in a crash, why does a helmet have foam, and why does a Newton's cradle send out exactly two balls when you drop two? Crash carts, cars and carrom strikers, fire a cannon and a rocket, catch a cricket ball, and sail on sunlight.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/momentumclear (link in bio).\n\nBox No. L18 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #momentum #conservationofmomentum #impulse #collisions #elasticcollision #inelasticcollision",
+    "youtube": {
+      "title": "What is momentum? #shorts",
+      "description": "Why does a lorry shove a car backwards in a crash, why does a helmet have foam, and why does a Newton's cradle send out exactly two balls when you drop two? Crash carts, cars and carrom strikers, fire a cannon and a rocket, catch a cricket ball, and sail on sunlight.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/momentumclear/\n⌘ Source code (MIT): https://github.com/bdeeps/momentumclear\n\nBox No. L18 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What is momentum? (interactive explainer)",
+      "description": "Why does a lorry shove a car backwards in a crash, why does a helmet have foam, and why does a Newton's cradle send out exactly two balls when you drop two? Crash carts, cars and carrom strikers, fire a cannon and a rocket, catch a cricket ball, and sail on sunlight.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/momentumclear/\n⌘ Source code (MIT): https://github.com/bdeeps/momentumclear\n\nIn this video:\n• Mass on the move. Momentum is mass times velocity, p = m v, in kg·m/s, and it has a direction.\n• Crashes and catches. After a head-on crash the wreck moves with the total momentum, so a lorry barely slows while a car's Δv is huge.\n• Push-offs. Start at zero momentum and push apart: skaters, a boat and its jumper, a cannon and its ball end with equal and opposite momentum.\n• Games. Newton's cradle sends out as many balls as you drop, because only that keeps both momentum and energy; clay balls crawl off together.\n• Myths and limits. In a crash both vehicles feel the same force; the heavier one just changes speed less, and the wreck goes the way of more momentum.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What is momentum?\n\nWhy does a lorry shove a car backwards in a crash, why does a helmet have foam, and why does a Newton's cradle send out exactly two balls when you drop two?\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/momentumclear/",
+    "linkedin": "What is momentum?\n\nWhy does a lorry shove a car backwards in a crash, why does a helmet have foam, and why does a Newton's cradle send out exactly two balls when you drop two? Crash carts, cars and carrom strikers, fire a cannon and a rocket, catch a cricket ball, and sail on sunlight.\n\n1. Mass on the move\n2. Crashes and catches\n3. Push-offs\n4. Games\n5. Myths and limits\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L18 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/momentumclear/\nCode: https://github.com/bdeeps/momentumclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T19:51:22.705Z"
+}
